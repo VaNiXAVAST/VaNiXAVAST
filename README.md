@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratham Avasthi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and MERN
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on FrontEnd Deveopment Projects
 - 📫 You can reach me through my gmail avasthipratham444@gmail.com
 
